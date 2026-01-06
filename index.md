@@ -10,13 +10,8 @@ title: Ahmed Elsaeed
 ---
 
 ## About Me
-Junior Data Science and Machine Learning Engineer with a strong foundation in computer science, 
-mathematics, statistics, and analytical thinking. Passionate about turning complex data into clear, 
-actionable insights through advanced analytics and data visualization tools. Skilled in Python, Pandas, 
-NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, data preprocessing techniques, and machine 
-learning. Experienced in identifying trends, solving problems, and uncovering hidden opportunities to 
-transform raw data into a roadmap for success. Focused on delivering user-centered solutions and 
-translating ideas into practical, executable products.
+Junior Data Science and Machine Learning Engineer with a strong foundation in computer science, mathematics, statistics, and analytical thinking. Passionate about turning complex data into clear, actionable insights through advanced analytics and data visualization tools. Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, data preprocessing techniques, and machine learning. Experienced in identifying trends, solving problems, and uncovering hidden opportunities to 
+transform raw data into a roadmap for success. Focused on delivering user-centered solutions and translating ideas into practical, executable products.
 
 ## Education
 
