@@ -86,4 +86,4 @@ interactive interface using Streamlit.
 
 ## Contact
 - [GitHub](https://github.com/Ahmedelsaee)
-- [LinkedIn](www.linkedin.com/in/ahmed-elsaeed-ai)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-elsaeed-ai/)
